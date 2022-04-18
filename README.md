@@ -8,4 +8,4 @@ this is our second assignment
 5. Atiqullah Hamraz
 6. Niamatullah Kiehan
 7. Esmatullah Erfan
-8. Nabi jan
+8. Nabi jan Aminkhil
